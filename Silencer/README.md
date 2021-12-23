@@ -19,3 +19,16 @@ I used variable layer height, so the threaded part was printed at 0.1 mm, but th
 The [Silencer_v01](out/Silencer_v01.stl) doesn't require any supports at all, and is all printed in place.
 
 When printed at these settings, the silencer fit very well, and there was no clearance issues whatsoever.
+
+
+# Images
+
+![Close](IMG_20211220_115327.jpg "Close")
+
+![Whole](IMG_20211220_115135.jpg "Whole")
+
+![Silencer_v01](2021-12-10_22.42.34.742.png "Silencer_v01")
+
+![Cross-section](2021-12-10_22.42.48.833.png "Cross-section")
+
+![Cross-section](2021-12-10_22.43.13.421.png "Cross-section")

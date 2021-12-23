@@ -20,3 +20,14 @@ I am using a standard Ender 3, with PLA, 200 °C nozzle 60 °C bed.
 Nothing needed supports, only the [Holder_out.stl](out/Holder_out.stl) needed a brim, otherwise it didn't stick properly.
 
 Some parts needed to be printed a little smaller to fit properly, or be sanded down a little bit.
+
+
+# Images
+
+![Whole](IMG_20211223_124833.jpg "Whole")
+
+![Close](IMG_20211223_124840.jpg "Close")
+
+![Model](ShortSword.png "Model")
+
+![Holder](Holder.png "Holder")
