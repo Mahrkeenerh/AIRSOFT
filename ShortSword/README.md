@@ -5,6 +5,8 @@ Shouldn't be too hard to make, I used glue on all parts that are supposed to sta
 
 You can sew the Holder onto a strap, or attach it in a different way, I made some extra holes for it.
 
+I used 8 mm paracord to wrap the handle.
+
 
 # Support me
 
