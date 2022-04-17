@@ -6,4 +6,4 @@ If you have the means, I would really apprecieate if you could support my work. 
 
 # Print settings
 
-I am using a standard Ender 3, with PLA, 200 °C nozzle 60 °C bed.
+I am using a standard Ender 3, with PLA.
